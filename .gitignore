@@ -1,0 +1,6 @@
+*.o
+*.exe
+.out
+scms
+scms.exe
+data/.txt
