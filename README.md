@@ -1,7 +1,7 @@
 Smart Campus Management System (SCMS)
 Project Info
-Student: Wasi Shah
-Roll No: 25-CS-068
+Students: Wasi Shah and Muhammad Haris 
+Roll No: 25-CS-068 and 25-cs-127
 Course: CS-104L: Object-Oriented Programming
 Institution: HITEC University Taxila
 Project Description
